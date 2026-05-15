@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with new MEV sniper bot | contract-verification + take-profit, the #1 MEV sniper bot. Includes contract-verification and take-profit for a faster and more
 
 
 
